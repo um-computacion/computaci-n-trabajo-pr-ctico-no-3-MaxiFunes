@@ -14,6 +14,10 @@
    5ta issue - Funcion ingrese_numero
    6ta issue - Implementar manejo de excepciones
 
+   # Ejecutar una prueba específica
+   python3 -m unittest tests/test_calculo_numeros.py
+   # Ejecutar el programa interactivo
+   python3 src/calculo_numeros.py
 
 
 
