@@ -11,8 +11,8 @@
 
 **Milestone 2:**
    4ta issue (**listo**) - Excepcion NumeroDebeSerPositivo
-   5ta issue - Funcion ingrese_numero
-   6ta issue - Implementar manejo de excepciones
+   5ta issue (**listo**) - Funcion ingrese_numero
+   6ta issue (**listo**) - Implementar manejo de excepciones
 
    # Ejecutar una prueba específica
    python3 -m unittest tests/test_calculo_numeros.py
