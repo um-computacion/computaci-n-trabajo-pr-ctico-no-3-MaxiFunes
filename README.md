@@ -1,5 +1,26 @@
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
+
+## Guia tp3:
+**Milestone 1:**
+   1ra issue - 
+   2da issue -
+   3ra issue -
+
+
+**Milestone 2:**
+   4ta issue - 
+   5ta issue - 
+   6ta issue - 
+
+
+
+
+
+
+
+
+
 ## Identificación del Alumno
 **Nombre y Apellido:** [Completar con tu nombre y apellido]
 
