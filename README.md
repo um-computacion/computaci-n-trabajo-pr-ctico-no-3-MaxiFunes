@@ -10,7 +10,7 @@
 
 
 **Milestone 2:**
-   4ta issue - Excepcion NumeroDebeSerPositivo
+   4ta issue (**listo**) - Excepcion NumeroDebeSerPositivo
    5ta issue - Funcion ingrese_numero
    6ta issue - Implementar manejo de excepciones
 
