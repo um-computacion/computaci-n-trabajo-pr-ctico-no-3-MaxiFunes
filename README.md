@@ -1,7 +1,28 @@
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** Maximo Funes
+## Guia tp3:
+**Milestone 1:**
+   1ra issue - Test de ingreso de numeros validos
+   2da issue - Test para ingreso de numeros negativos
+   3ra issue - Test para ingreso de textos no numericos
+
+
+**Milestone 2:**
+   4ta issue - Excepcion NumeroDebeSerPositivo
+   5ta issue - Funcion ingrese_numero
+   6ta issue - Implementar manejo de excepciones
+
+
+
+
+
+
+
+
+
+
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
