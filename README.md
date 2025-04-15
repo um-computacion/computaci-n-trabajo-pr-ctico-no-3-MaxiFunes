@@ -3,15 +3,15 @@
 
 ## Guia tp3:
 **Milestone 1:**
-   1ra issue - 
-   2da issue -
-   3ra issue -
+   1ra issue - Test de ingreso de numeros validos
+   2da issue - Test para ingreso de numeros negativos
+   3ra issue - Test para ingreso de textos no numericos
 
 
 **Milestone 2:**
-   4ta issue - 
-   5ta issue - 
-   6ta issue - 
+   4ta issue - Excepcion NumeroDebeSerPositivo
+   5ta issue - Funcion ingrese_numero
+   6ta issue - Implementar manejo de excepciones
 
 
 
