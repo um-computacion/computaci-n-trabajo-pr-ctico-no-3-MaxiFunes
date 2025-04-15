@@ -4,7 +4,7 @@
 **Nombre y Apellido:** Maximo Funes
 ## Guia tp3:
 **Milestone 1:**
-   1ra issue - Test de ingreso de numeros validos
+   1ra issue (**listo**) - Test de ingreso de numeros validos
    2da issue - Test para ingreso de numeros negativos
    3ra issue - Test para ingreso de textos no numericos
 
